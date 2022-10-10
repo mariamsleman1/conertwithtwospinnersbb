@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">conertwithtwospinnersbb</string>
+
+    <string-array name="coins">
+        <item>shekel</item>
+        <item>dollar</item>
+        <item>euro</item>
+    </string-array>
+
+    <string-array name="tocoin">
+        <item>shekel</item>
+        <item>dollar</item>
+        <item>euro</item>
+    </string-array>
+</resources>
